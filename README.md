@@ -30,7 +30,7 @@ Utiliser un outils comme Dia pour le représenter. Je veux **votre** schéma, pa
 
 2. Expliquer ce pattern en complétant ce texte.
 
-Le pattern MVP, vise à découper le `.......`, de la `.......` et du `.......` afin de rendre le code plus `.......`.
+Le pattern MVC, vise à découper le `.......`, de la `.......` et du `.......` afin de rendre le code plus `.......`.
 Les responsabilités ne sont alors plus `.......`.
 On peut ainsi changer l'aspect visuel de son application sans pour autant impacter le `.......`.
 
